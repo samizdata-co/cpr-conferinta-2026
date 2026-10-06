@@ -301,30 +301,30 @@ Vizualizarea acestora ne poate oferi informații pe care altfel le-am pierde.
 
 ## Ce putem vizualiza? {.smaller background-color="white"}
 
-Poziție ![](https://datavizproject.com/wp-content/uploads/types/Scatter-Plot.png){.absolute top=100 right=50 width="500" height="500"}
+Poziție ![](media/charts/Scatter-Plot.png){.absolute top=100 right=50 width="500" height="500"}
 
 ::: {.fragment}
 Mărime
 
-&nbsp;&nbsp;&nbsp;&nbsp;Lățime ![](https://datavizproject.com/wp-content/uploads/types/Bar-Chart-Horizontal-600x600.png){.absolute top=100 right=50 width="500" height="500"}
+&nbsp;&nbsp;&nbsp;&nbsp;Lățime ![](media/charts/Bar-Chart-Horizontal.webp){.absolute top=100 right=50 width="500" height="500"}
 :::
 
 ::: {.fragment}
-&nbsp;&nbsp;&nbsp;&nbsp;Înălțime ![](https://datavizproject.com/wp-content/uploads/types/Bar-Chart-Vertical-600x600.png){.absolute top=100 right=50 width="500" height="500"}
+&nbsp;&nbsp;&nbsp;&nbsp;Înălțime ![](media/charts/Bar-Chart-Vertical.webp){.absolute top=100 right=50 width="500" height="500"}
 :::
 
 ::: {.fragment}
-&nbsp;&nbsp;&nbsp;&nbsp;Suprafață ![](https://datavizproject.com/wp-content/uploads/types/Stacked-Area-Chart-600x600.png){.absolute top=100 right=50 width="500" height="500"}
+&nbsp;&nbsp;&nbsp;&nbsp;Suprafață ![](media/charts/Stacked-Area-Chart.webp){.absolute top=100 right=50 width="500" height="500"}
 :::
 
 ::: {.fragment}
 Culoare
 
-&nbsp;&nbsp;&nbsp;&nbsp;Umplutură ![](https://datavizproject.com/wp-content/uploads/types/Pictorial-Stacked-Chart-600x600.png){.absolute top=100 right=50 width="500" height="500"}
+&nbsp;&nbsp;&nbsp;&nbsp;Umplutură ![](media/charts/Pictorial-Stacked-Chart.webp){.absolute top=100 right=50 width="500" height="500"}
 :::
 
 ::: {.fragment}
-&nbsp;&nbsp;&nbsp;&nbsp;Culoare ![](https://datavizproject.com/wp-content/uploads/types/Cluster-Analysis-600x600.png){.absolute top=100 right=50 width="500" height="500"}
+&nbsp;&nbsp;&nbsp;&nbsp;Culoare ![](media/charts/Cluster-Analysis.webp){.absolute top=100 right=50 width="500" height="500"}
 :::
 
 ::: {.fragment}
@@ -332,11 +332,11 @@ Culoare
 
 &nbsp;&nbsp;&nbsp;&nbsp;Model
 
-Formă ![](https://datavizproject.com/wp-content/uploads/types/Matrix-Diagram--600x600.png){.absolute top=100 right=50 width="500" height="500"}
+Formă ![](media/charts/Matrix-Diagram-.webp){.absolute top=100 right=50 width="500" height="500"}
 :::
 
 ::: {.fragment}
-Locație ![](https://datavizproject.com/wp-content/uploads/types/Choropleth-Map-600x600.png){.absolute top=100 right=50 width="500" height="500"}
+Locație ![](media/charts/Choropleth-Map.webp){.absolute top=100 right=50 width="500" height="500"}
 :::
 
 
@@ -390,7 +390,7 @@ Sursă: [SAMIZDATA](https://samizdata.co/training/toolbox#visualisation)
 
 ::: columns
 ::: {.column width="60%"}
-![](https://datavizproject.com/wp-content/uploads/types/Bar-Chart-Vertical.png)
+![](media/charts/Bar-Chart-Vertical.webp)
 :::
 
 ::: {.column width="40%"}
@@ -404,7 +404,7 @@ Potrivit pentru a compara numere sau a arăta trend-uri.
 
 ::: columns
 ::: {.column width="60%"}
-![](https://datavizproject.com/wp-content/uploads/types/Line-Graph.png)
+![](media/charts/Line-Graph.png)
 :::
 
 ::: {.column width="40%"}
@@ -419,7 +419,7 @@ Potrivit pentru a arăta trend-uri.
 
 ::: columns
 ::: {.column width="60%"}
-![](https://datavizproject.com/wp-content/uploads/types/Stacked-Area-Chart.png)
+![](media/charts/Stacked-Area-Chart.webp)
 :::
 
 ::: {.column width="40%"}
@@ -433,7 +433,7 @@ Potrivit pentru a arăta trend-uri.
 
 ::: columns
 ::: {.column width="60%"}
-![](https://datavizproject.com/wp-content/uploads/types/Scatter-Plot.png)
+![](media/charts/Scatter-Plot.png)
 :::
 
 ::: {.column width="40%"}
@@ -447,7 +447,7 @@ Potrivit pentru a ilustra corelația dintre diferite serii de date.
 
 ::: columns
 ::: {.column width="60%"}
-![](https://datavizproject.com/wp-content/uploads/types/Choropleth-Map.png)
+![](media/charts/Choropleth-Map.webp)
 :::
 
 ::: {.column width="40%"}
