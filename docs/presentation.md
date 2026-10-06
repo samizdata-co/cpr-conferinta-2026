@@ -40,6 +40,9 @@ filters:
 </style>
 ```
 
+![](media/qr-code.svg)
+
+
 
 ## Cine sunt eu?
 
@@ -640,7 +643,7 @@ Show Moldova investigation skills in an Obsidian vault (research Ion Onțu).
 - [mcptools](https://posit-dev.github.io/mcptools/) / [btw](https://posit-dev.github.io/btw/) pentru R
 
 ::: notes
-Show how to use the Datawrapper MCP to reproduce the exercise earlier.
+Show how to use the [OpenRegister MCP](https://openregistry.sophymarine.com/) to create a profile for "Heim Partners Ltd", connected to Vasile Tofan
 :::
 
 ## Agenți dedicați
